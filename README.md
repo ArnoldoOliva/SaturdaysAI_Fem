@@ -12,7 +12,7 @@ https://www.google.com/maps/d/u/0/viewer?mid=10mXOLfKVymunP5M3YWENPnPadzA0dE4z&l
 https://www.google.com/maps/d/u/0/viewer?mid=174IjBzP-fl_6wpRHg5pkGSj2egE&ll=21.86815644266619%2C-98.83876502147328&z=6
 
 
-#Relacionado:
+##Relacionado:
 #Científicos mexicanos investigan la misoginia a través de Twitter para abatir feminicidios
 https://invdes.com.mx/ciencia-ms/cientificos-mexicanos-investigan-la-misoginia-a-traves-de-twitter-para-abatir-feminicidios/
 
